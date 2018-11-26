@@ -6,7 +6,7 @@ output:
 geometry: margin=1in
 
 title: "CV"
-author: Grace Brewster Murray Hopper
+author: Grace Brewste
 #orcid: "orcid.org/0000-0002-9577-6885"
 jobtitle: "Computer Scientist & United States Navy Rear Admiral"
 address: "Address · Arlington · VA 22205"
